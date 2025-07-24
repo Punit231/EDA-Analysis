@@ -38,7 +38,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a demographic datas
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/EDA-Demographic-Analysis.git
+   git clone https://github.com/Punit231/EDA-Analysis.git
    cd EDA-Demographic-Analysis
    ```
 
